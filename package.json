@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "dotenv": "^17.2.0",
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^24.14.0",
+    "sqlite3": "^5.1.7"
+  }
+}
